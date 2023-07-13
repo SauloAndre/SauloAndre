@@ -1,5 +1,4 @@
 <div align="center">
-  <img src='./bannergit.png'>
 </div>
 <div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=SauloAndre&theme=vision-friendly-dark' width="50%">
